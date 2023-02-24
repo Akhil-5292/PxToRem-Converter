@@ -1,0 +1,22 @@
+.wrapper{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color:crimson;
+}
+
+.container{
+    border: 1px solid;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50vh;
+    width: 30vw;
+    background-color: darkgoldenrod;
+}
+
+.input{
+    height: 35px;
+    font-size: 16px;
+}
