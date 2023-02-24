@@ -17,6 +17,7 @@ export default function PxToRem() {
  }
   return (
     <div className={style.wrapper}>
+      <h3>Px to Rem Converter</h3>
       <div className={style.container}>
      <input className={style.input} value={px} onChange={handleChange}/>px 
      <input className={style.input} value={rem} onChange={handleRem}/>rem

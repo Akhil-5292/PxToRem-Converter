@@ -4,8 +4,13 @@
     justify-content: center;
     align-items: center;
     background-color:crimson;
+    position: relative;
 }
 
+.wrapper h3{
+    position: absolute;
+    top: 30%;
+   }
 .container{
     border: 1px solid;
     display: flex;
